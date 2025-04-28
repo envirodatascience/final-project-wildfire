@@ -9,6 +9,9 @@ This dataset includes wildfire and prescribed fire information from 1984 - 2024 
 The Colab document contains detailed information on how we produced our analysis, as well as our outputs. The Presentations slides contain key takeaways and interpretation of results. 
 
 Within this Repository, we have multiple files:
+
 Final Consolidated Code: This Colab document contains our consolidated, detailed code for undertaking analysis.
-cb_2018_us_state_500k.shp & .zip: State boundary files
+
+cb_2018_us_state_500k.zip: State boundaries
+
 mtbs_CA_xxxx.tif: These files contain DNBr values for each year for the state of California. 
