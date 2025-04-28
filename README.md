@@ -10,6 +10,8 @@ The Colab document contains detailed information on how we produced our analysis
 
 Within this Repository, we have multiple files:
 
+README: This document containing overall project scope and instructions
+
 Final Consolidated Code: This Colab document contains our consolidated, detailed code for undertaking analysis.
 
 cb_2018_us_state_500k.zip: State boundaries
